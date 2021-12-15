@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.PracticeFormTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-15T21:45:56" hostname="LAPTOP-4AB6G28V" time="7.384">
+  <properties/>
+  <testcase name="fillFormTest()" classname="guru.qa.PracticeFormTests" time="7.384"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 14 - let's create a new webdriver
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\Albina\IdeaProjects\demoqa-tests-new1\build\downloads\1639604756407_20072_14
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 96.0.4664.45 (resolved driver for Chrome 96)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Albina\.cache\selenium\chromedriver\win32\96.0.4664.45\chromedriver.exe
+Starting ChromeDriver 96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}) on port 60136
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+дек. 16, 2021 12:45:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+дек. 16, 2021 12:45:58 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 96
+[Test worker] INFO com.codeborne.selenide.webdriver.HttpClientTimeouts - Changed connectTimeout from PT10S to PT10S
+[Test worker] INFO com.codeborne.selenide.webdriver.HttpClientTimeouts - Changed readTimeout from PT3M to PT3M
+[Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=96.0.4664.93 Platform=WINDOWS
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 6.1.1
+[Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 4.1.0 build revision: 87802e897b
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Created webdriver in thread 14: ChromeDriver -> ChromeDriver: chrome on WINDOWS (1f94209b4283ccd59be73fc99f65e3a4)
+]]></system-err>
+</testsuite>
