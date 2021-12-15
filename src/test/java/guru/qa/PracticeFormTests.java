@@ -21,8 +21,6 @@ import static com.codeborne.selenide.Selenide.open;
 public class PracticeFormTests {
 
 
-
-
     @Test
     void fillFormTest() throws InterruptedException {
         Faker faker = new Faker();
@@ -51,19 +49,6 @@ public class PracticeFormTests {
         $(".table-responsive").shouldHave(text("George Clooney"),text("test@tets.test"),
                 text("Male"),text("7674635847"),text("12 April,1999"),
                 text("English"),text("Reading"),text("EIEXH0aWkAMsRvR.jpg"),text("USA"),text("Haryana Panipat"));
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
